@@ -1,7 +1,7 @@
 {
   "name": "MDH IOS",
-  "identifier": "com.tenban.repo",
-  "sourceURL": "https://raw.githubusercontent.com/...", 
+  "identifier": "com.MDH.repo",
+  "sourceURL": "https://raw.githubusercontent.com/duyhungmdh/MDHIOS/refs/heads/main/Apps.json", 
   "apps": [
     {
       "name": "Twitter",

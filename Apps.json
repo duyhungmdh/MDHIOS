@@ -1,10 +1,10 @@
 {
   "name": "MDH Repository",
-  "identifier": "nya",
+  "identifier": "com.mdh.repo",
   "subtitle": "A source for MDH app",
   "description": "This is a AltStore source for Ksign",
   "iconURL": "https://github.com/Nyasami/Ksign/blob/v1.5/Ksign/Resources/AppIcons/kana_peek.png?raw=true",
-  "tintColor": "3c94fc",
+  "tintColor": "#3c94fc",
   "apps": [
     {
       "name": "Twitter",
@@ -13,7 +13,7 @@
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/v9.67/Twitter.3.png",
       "localizedDescription": "Yet another codesigning app, have you ever wondered what if Feather and Esign had a child? Welcome to Ksign!",
       "subtitle": "The \"cleaner\" Esign app.",
-      "tintColor": "3c94fc",
+      "tintColor": "#3c94fc",
       "category": "utilities",
       "versions": [
         {

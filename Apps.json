@@ -8,7 +8,7 @@
   "apps": [
     {
       "name": "Twitter",
-      "bundleIdentifier": "com.mdh.twitter.v1016",
+      "bundleIdentifier": "com.mdh.twitter.v9.67",
       "developerName": "MDH",
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Twitter.jpg",
       "localizedDescription": "Hướng dẫn Fix Lỗi Login X cho người dùng chứng chỉ",
@@ -25,9 +25,9 @@
     },
     {
       "name": "Twitter",
-      "bundleIdentifier": "com.mdh.twitter.v967",
+      "bundleIdentifier": "com.mdh.twitter.v1016",
       "developerName": "MDH",
-      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/v9.67/Twitter.jpg",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Twitter.jpg",
       "localizedDescription": "Hướng dẫn Fix Lỗi Login X cho người dùng chứng chỉ",
       "subtitle": "X Fix Login",
       "tintColor": "#3c94fc",

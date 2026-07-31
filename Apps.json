@@ -7,6 +7,40 @@
   "tintColor": "#3c94fc",
   "apps": [
     {
+      "name": "Filza",
+      "bundleIdentifier": "com.mdh.filza",
+      "developerName": "MDH",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza.jpg",
+      "localizedDescription": "Quản lý file",
+      "subtitle": "Unlock Pro",
+      "tintColor": "#3c94fc",
+      "versions": [
+        {
+          "version": "4.0.0",
+          "buildVersion": "1",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza_v4.0.0.ipa"
+        }
+      ]
+    },
+    {
+      "name": "App Manager",
+      "bundleIdentifier": "com.mdh.appmanager",
+      "developerName": "MDH",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/AppManager.jpg",
+      "localizedDescription": "Quản lý file",
+      "subtitle": "Unlock Pro",
+      "tintColor": "#3c94fc",
+      "versions": [
+        {
+          "version": "1.8.4",
+          "buildVersion": "1",
+          "localizedDescription": "",
+          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/AppsManager_v1.8.4.ipa"
+        }
+      ]
+    },
+    {
       "name": "Twitter",
       "bundleIdentifier": "com.mdh.twitter.v9.67",
       "developerName": "MDH",

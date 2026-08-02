@@ -1,7 +1,7 @@
 {
   "name": "MDH TWEAK",
   "identifier": "com.mdh.repo",
-  "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Logo.jpg?raw=true",
+  "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Logo.jpg",
   "apps": [
     {
       "name": "E-Sign",
@@ -126,7 +126,6 @@
       "tintColor": "848ef9",
       "imageURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN.jpg",
       "date": "2025-02-04",
-      "url": "",
       "notify": false
     },
     {

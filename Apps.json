@@ -37,7 +37,7 @@
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza.jpg",
       "tintColor": "ff0000",
       "version": "4.0.0",
-      "versionDate": "2026-08-01T10:00:00Z",
+      "versionDate": "2026-08-02T10:00:00Z",
       "size": 15000000,
       "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza_v4.0.0.ipa",
       "versions": [
@@ -85,13 +85,13 @@
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger.jpg",
       "tintColor": "000000",
       "version": "5.17",
-      "versionDate": "2026-08-02T10:10:00Z",
+      "versionDate": "2026-08-01T10:10:00Z",
       "size": 69000000,
       "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_v5.17.ipa",
       "versions": [
         {
           "version": "5.17",
-          "date": "2026-08-02T10:10:00Z",
+          "date": "2026-08-01T10:10:00Z",
           "size": 69000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_v5.17.ipa"
         }
@@ -115,7 +115,7 @@
       "versions": [
         {
           "version": "9.67",
-          "date": "2026-08-02T10:15:00Z",
+          "date": "2026-08-01T10:15:00Z",
           "size": 111000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X_FixLogin_v9.67.ipa"
         }
@@ -139,7 +139,7 @@
       "versions": [
         {
           "version": "10.16",
-          "date": "2026-08-02T10:20:00Z",
+          "date": "2026-08-01T10:20:00Z",
           "size": 120000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X_FixLogin_v10.16.ipa"
         }

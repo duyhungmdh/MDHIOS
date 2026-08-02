@@ -147,21 +147,21 @@
     {
       "title": "Việt Nam",
       "identifier": "MDH-Việt Nam",
-      "caption": "Chào mừng bạn đến với Repo của MDH",
+      "caption": "Cộng Hoà Xã Hội Chủ Nghĩa Việt Nam \n Độc Lập - Tự Do - Hạnh Phúc",
       "tintColor": "848ef9",
       "imageURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN.jpg",
-      "date": "2025-02-04",
+      "date": "2026-08-01",
       "url": "https://github.com/duyhungmdh/MDHIOS",
       "notify": false
     },
     {
       "title": "About MDH",
       "identifier": "MDH-about",
-      "caption": "Thông tin về Repo và các ứng dụng mới cập nhật.",
+      "caption": "Hoàng Sa, Trường Sa là của Việt Nam.",
       "tintColor": "8A28F7",
       "imageURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg",
       "url": "https://github.com/duyhungmdh/MDHIOS",
-      "date": "2025-02-03",
+      "date": "2026-08-01",
       "notify": true
     }
   ]

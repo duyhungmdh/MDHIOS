@@ -25,7 +25,7 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
       ]
     },
     {
@@ -49,7 +49,7 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
       ]
     },
     {
@@ -73,7 +73,7 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
       ]
     },
     {
@@ -97,7 +97,7 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
       ]
     },
     {
@@ -121,7 +121,7 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
       ]
     },
     {
@@ -145,7 +145,7 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
       ]
     }
   ],
@@ -165,7 +165,7 @@
       "identifier": "MDH-about",
       "caption": "Quần đảo Hoàng Sa, Trường Sa là của Việt Nam.",
       "tintColor": "8A28F7",
-      "imageURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg",
+      "imageURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN.jpg",
       "url": "https://github.com/duyhungmdh/MDHIOS",
       "date": "2026-08-01",
       "notify": true

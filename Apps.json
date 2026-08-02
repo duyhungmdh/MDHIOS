@@ -6,13 +6,12 @@
   "apps": [
     {
       "name": "E-Sign",
+      "localizedDescription": "E-Sign hỗ trợ kí IPA.",
       "bundleIdentifier": "p3.xyz.yyyue.esign",
       "developerName": "MDH",
-      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Esign.jpg",
-      "localizedDescription": "E-Sign hỗ trợ kí IPA.",
       "subtitle": "App Sign IPA",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Esign.jpg",
       "tintColor": "848ef9",
-      "screenshotURLs": [],
       "version": "5.0.2",
       "versionDate": "2026-08-01T02:11:53Z",
       "size": 7500000,
@@ -24,17 +23,19 @@
           "size": 7500000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Esign_v5.0.2.ipa"
         }
+      ],
+      "screenshotURLs": [
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
       ]
     },
     {
       "name": "Filza",
+      "localizedDescription": "Quản lý file mạnh mẽ cho iOS",
       "bundleIdentifier": "com.tigisoftware.Filza",
       "developerName": "MDH",
-      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza.jpg",
-      "localizedDescription": "Quản lý file mạnh mẽ cho iOS",
       "subtitle": "Unlock Pro",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza.jpg",
       "tintColor": "ff0000",
-      "screenshotURLs": [],
       "version": "4.0.0",
       "versionDate": "2026-08-02T10:00:00Z",
       "size": 15000000,
@@ -46,17 +47,19 @@
           "size": 15000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza_v4.0.0.ipa"
         }
+      ],
+      "screenshotURLs": [
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
       ]
     },
     {
       "name": "App Manager",
+      "localizedDescription": "Quản lý ứng dụng và dữ liệu app",
       "bundleIdentifier": "com.tigisoftware.ADManager",
       "developerName": "MDH",
-      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/AppManager.jpg",
-      "localizedDescription": "Quản lý ứng dụng và dữ liệu app",
       "subtitle": "Unlock Pro",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/AppManager.jpg",
       "tintColor": "1db954",
-      "screenshotURLs": [],
       "version": "1.8.4",
       "versionDate": "2026-08-02T10:05:00Z",
       "size": 5000000,
@@ -68,17 +71,19 @@
           "size": 5000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/AppsManager_v1.8.4.ipa"
         }
+      ],
+      "screenshotURLs": [
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
       ]
     },
     {
       "name": "Messenger",
+      "localizedDescription": "Hướng dẫn Fix Lỗi Login Messenger cho người dùng chứng chỉ:\n\nHướng dẫn chi tiết:\n- Cài ipa Messenger bên trên\n- Nhấn đăng nhập, nhập Tài Khoản + Mật Khẩu\n- Sau khi đăng nhập thành công, không được xoá Messenger đã cài, cài đè ver Messenger mới là được.",
       "bundleIdentifier": "com.mdh.messenger",
       "developerName": "MDH",
-      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger.jpg",
-      "localizedDescription": "Hướng dẫn Fix Lỗi Login Messenger cho người dùng chứng chỉ:\n\nHướng dẫn chi tiết:\n- Cài ipa Messenger bên trên\n- Nhấn đăng nhập, nhập Tài Khoản + Mật Khẩu\n- Sau khi đăng nhập thành công, không được xoá Messenger đã cài, cài đè ver Messenger mới là được.",
       "subtitle": "Messenger Fix Login",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger.jpg",
       "tintColor": "000000",
-      "screenshotURLs": [],
       "version": "5.17",
       "versionDate": "2026-08-02T10:10:00Z",
       "size": 69000000,
@@ -90,17 +95,19 @@
           "size": 69000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_v5.17.ipa"
         }
+      ],
+      "screenshotURLs": [
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
       ]
     },
     {
       "name": "Twitter",
+      "localizedDescription": "Hướng dẫn đăng nhập nhiều tài khoản X trên phiên bản cao:\n\nHướng dẫn chi tiết:\n- Cài ipa X cũ bên trên\n- Cài xong thì bật chế độ máy bay & tắt Wifi rồi vào X\n- Nhấn đăng nhập, nhập Tài Khoản + Mật Khẩu\n- Sau đó bật Wifi lên rồi ấn Đăng Nhập\n- Sau khi đăng nhập thành công, không được xoá X đã cài, cài đè ver X mới là được.",
       "bundleIdentifier": "com.mdh.twitter.v9.67",
       "developerName": "MDH",
-      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Twitter.jpg",
-      "localizedDescription": "Hướng dẫn đăng nhập nhiều tài khoản X trên phiên bản cao:\n\nHướng dẫn chi tiết:\n- Cài ipa X cũ bên trên\n- Cài xong thì bật chế độ máy bay & tắt Wifi rồi vào X\n- Nhấn đăng nhập, nhập Tài Khoản + Mật Khẩu\n- Sau đó bật Wifi lên rồi ấn Đăng Nhập\n- Sau khi đăng nhập thành công, không được xoá X đã cài, cài đè ver X mới là được.",
       "subtitle": "X Fix Login",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Twitter.jpg",
       "tintColor": "1877f2",
-      "screenshotURLs": [],
       "version": "9.67",
       "versionDate": "2026-08-02T10:15:00Z",
       "size": 111000000,
@@ -112,17 +119,19 @@
           "size": 111000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X_FixLogin_v9.67.ipa"
         }
+      ],
+      "screenshotURLs": [
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
       ]
     },
     {
       "name": "Twitter",
+      "localizedDescription": "Hướng dẫn đăng nhập nhiều tài khoản X trên phiên bản cao:\n\nHướng dẫn chi tiết:\n- Cài ipa X cũ bên trên\n- Đăng nhập tất cả tài khoản X mà bạn muốn dùng\n- Sau khi đăng nhập thành công, ko đc xoá X đã cài, cài đè ipa X phiên bản mới hơn là được.",
       "bundleIdentifier": "com.mdh.twitter.v1016",
       "developerName": "MDH",
-      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Twitter.jpg",
-      "localizedDescription": "Hướng dẫn đăng nhập nhiều tài khoản X trên phiên bản cao:\n\nHướng dẫn chi tiết:\n- Cài ipa X cũ bên trên\n- Đăng nhập tất cả tài khoản X mà bạn muốn dùng\n- Sau khi đăng nhập thành công, ko đc xoá X đã cài, cài đè ipa X phiên bản mới hơn là được.",
       "subtitle": "X Fix Login",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Twitter.jpg",
       "tintColor": "e1306c",
-      "screenshotURLs": [],
       "version": "10.16",
       "versionDate": "2026-08-02T10:20:00Z",
       "size": 120000000,
@@ -134,6 +143,9 @@
           "size": 120000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X_FixLogin_v10.16.ipa"
         }
+      ],
+      "screenshotURLs": [
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN1.jpg"
       ]
     }
   ],

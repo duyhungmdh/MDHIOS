@@ -50,7 +50,8 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/1.jpeg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/2.jpeg"
       ]
     },
     {
@@ -74,7 +75,8 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/1.jpeg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/2.jpeg"
       ]
     },
     {
@@ -98,7 +100,8 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/1.jpeg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/2.jpeg"
       ]
     },
     {
@@ -122,7 +125,8 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/1.jpeg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/2.jpeg"
       ]
     },
     {
@@ -146,7 +150,8 @@
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN2.jpg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/1.jpeg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/2.jpeg"
       ]
     }
   ],
@@ -166,7 +171,7 @@
       "identifier": "MDH-about",
       "caption": "Quần đảo Hoàng Sa, Trường Sa là của Việt Nam.",
       "tintColor": "8A28F7",
-      "imageURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN.jpg",
+      "imageURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/3.jpeg",
       "url": "https://github.com/duyhungmdh/MDHIOS",
       "date": "2026-08-01",
       "notify": true

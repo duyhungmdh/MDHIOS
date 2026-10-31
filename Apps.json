@@ -2,7 +2,7 @@
   "name": "MDH TWEAK",
   "identifier": "com.mdh.repo",
   "description": "Kho ứng dụng MDH Tweak chuyên chia sẻ IPA Mod.",
-  "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Logo.jpg",
+  "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Logo1.jpg",
   "apps": [
     {
       "name": "xSign",
@@ -12,16 +12,16 @@
       "subtitle": "App Sign IPA",
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign.jpg",
       "tintColor": "848ef9",
-      "version": "1.9.2",
-      "versionDate": "2026-08-01T02:11:53Z",
+      "version": "1.9.3",
+      "versionDate": "2026-11-01T02:11:53Z",
       "size": 18500000,
-      "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.2.ipa",
+      "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.3.ipa",
       "versions": [
         {
           "version": "1.9.2",
-          "date": "2026-08-01T02:11:53Z",
+          "date": "2026-11-01T02:11:53Z",
           "size":18500000,
-          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.2.ipa"
+          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.3.ipa"
         }
       ],
       "screenshotURLs": [

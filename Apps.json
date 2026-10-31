@@ -5,8 +5,8 @@
   "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Logo.jpg",
   "apps": [
     {
-      "name": "x-Sign",
-      "localizedDescription": "x-Sign hỗ trợ kí IPA.",
+      "name": "xSign",
+      "localizedDescription": "xSign hỗ trợ kí IPA.",
       "bundleIdentifier": "mdh.xsign",
       "developerName": "MDH",
       "subtitle": "App Sign IPA",

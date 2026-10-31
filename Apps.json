@@ -10,18 +10,18 @@
       "bundleIdentifier": "mdh.xsign",
       "developerName": "MDH",
       "subtitle": "App Sign IPA",
-      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xsign.jpg",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign.jpg",
       "tintColor": "848ef9",
       "version": "1.9.2",
       "versionDate": "2026-08-01T02:11:53Z",
       "size": 18500000,
-      "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Esign_v5.0.2.ipa",
+      "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.2.ipa",
       "versions": [
         {
           "version": "1.9.2",
           "date": "2026-08-01T02:11:53Z",
           "size":18500000,
-          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Esign_v5.0.2.ipa"
+          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.2.ipa"
         }
       ],
       "screenshotURLs": [
@@ -90,13 +90,13 @@
       "version": "5.15",
       "versionDate": "2026-08-01T10:10:00Z",
       "size": 69000000,
-      "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_v5.17.ipa",
+      "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_Fixlogin_v515.0.0.ipa",
       "versions": [
         {
           "version": "5.15",
           "date": "2026-08-01T10:10:00Z",
           "size": 69000000,
-          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_v5.17.ipa"
+          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_Fixlogin_v515.0.0.ipa"
         }
       ],
       "screenshotURLs": [

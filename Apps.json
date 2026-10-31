@@ -5,22 +5,22 @@
   "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Logo.jpg",
   "apps": [
     {
-      "name": "E-Sign",
-      "localizedDescription": "E-Sign hỗ trợ kí IPA.",
-      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "name": "x-Sign",
+      "localizedDescription": "x-Sign hỗ trợ kí IPA.",
+      "bundleIdentifier": "mdh.xsign",
       "developerName": "MDH",
       "subtitle": "App Sign IPA",
-      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Esign.jpg",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xsign.jpg",
       "tintColor": "848ef9",
-      "version": "5.0.2",
+      "version": "1.9.2",
       "versionDate": "2026-08-01T02:11:53Z",
-      "size": 7500000,
+      "size": 18500000,
       "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Esign_v5.0.2.ipa",
       "versions": [
         {
-          "version": "5.0.2",
+          "version": "1.9.2",
           "date": "2026-08-01T02:11:53Z",
-          "size": 7500000,
+          "size":18500000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Esign_v5.0.2.ipa"
         }
       ],
@@ -87,13 +87,13 @@
       "subtitle": "Messenger Fix Login",
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger.jpg",
       "tintColor": "000000",
-      "version": "5.17",
+      "version": "5.15",
       "versionDate": "2026-08-01T10:10:00Z",
       "size": 69000000,
       "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_v5.17.ipa",
       "versions": [
         {
-          "version": "5.17",
+          "version": "5.15",
           "date": "2026-08-01T10:10:00Z",
           "size": 69000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_v5.17.ipa"

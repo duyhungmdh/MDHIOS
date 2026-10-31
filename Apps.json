@@ -39,13 +39,13 @@
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza.jpg",
       "tintColor": "ff0000",
       "version": "4.0.0",
-      "versionDate": "2026-08-01T10:00:00Z",
+      "versionDate": "2026-11-01T10:00:00Z",
       "size": 15000000,
       "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza_v4.0.0.ipa",
       "versions": [
         {
           "version": "4.0.0",
-          "date": "2026-08-01T10:00:00Z",
+          "date": "2026-11-01T10:00:00Z",
           "size": 15000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Filza_v4.0.0.ipa"
         }
@@ -64,13 +64,13 @@
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/AppManager.jpg",
       "tintColor": "1db954",
       "version": "1.8.4",
-      "versionDate": "2026-08-01T10:05:00Z",
+      "versionDate": "2026-11-01T10:05:00Z",
       "size": 5000000,
       "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/AppsManager_v1.8.4.ipa",
       "versions": [
         {
           "version": "1.8.4",
-          "date": "2026-08-01T10:05:00Z",
+          "date": "2026-11-01T10:05:00Z",
           "size": 5000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/AppsManager_v1.8.4.ipa"
         }
@@ -89,20 +89,20 @@
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger.jpg",
       "tintColor": "000000",
       "version": "5.15",
-      "versionDate": "2026-08-01T10:10:00Z",
+      "versionDate": "2026-11-01T10:10:00Z",
       "size": 69000000,
       "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_Fixlogin_v515.0.0.ipa",
       "versions": [
         {
           "version": "5.15",
-          "date": "2026-08-01T10:10:00Z",
+          "date": "2026-11-01T10:10:00Z",
           "size": 69000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Messenger_Fixlogin_v515.0.0.ipa"
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/1.jpeg",
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/2.jpeg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Mess1.jpg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Mess2.jpg"
       ]
     },
     {
@@ -114,20 +114,20 @@
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Twitter.jpg",
       "tintColor": "1877f2",
       "version": "9.67",
-      "versionDate": "2026-08-01T10:15:00Z",
+      "versionDate": "2026-11-01T10:15:00Z",
       "size": 111000000,
       "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X_FixLogin_v9.67.ipa",
       "versions": [
         {
           "version": "9.67",
-          "date": "2026-08-01T10:15:00Z",
+          "date": "2026-11-01T10:15:00Z",
           "size": 111000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X_FixLogin_v9.67.ipa"
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/1.jpeg",
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/2.jpeg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X1.jpg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X2.jpg"
       ]
     },
     {
@@ -139,20 +139,20 @@
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/Twitter.jpg",
       "tintColor": "e1306c",
       "version": "10.16",
-      "versionDate": "2026-08-01T10:20:00Z",
+      "versionDate": "2026-11-01T10:20:00Z",
       "size": 120000000,
       "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X_FixLogin_v10.16.ipa",
       "versions": [
         {
           "version": "10.16",
-          "date": "2026-08-01T10:20:00Z",
+          "date": "2026-11-01T10:20:00Z",
           "size": 120000000,
           "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X_FixLogin_v10.16.ipa"
         }
       ],
       "screenshotURLs": [
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/1.jpeg",
-        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/2.jpeg"
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X1.jpg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/X2.jpg"
       ]
     }
   ],
@@ -163,7 +163,7 @@
       "caption": "Cộng Hoà Xã Hội Chủ Nghĩa Việt Nam \n Độc Lập - Tự Do - Hạnh Phúc.",
       "tintColor": "848ef9",
       "imageURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/VN.jpg",
-      "date": "2026-08-01",
+      "date": "2026-11-01",
       "url": "https://github.com/duyhungmdh/MDHIOS",
       "notify": false
     },
@@ -174,7 +174,7 @@
       "tintColor": "8A28F7",
       "imageURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/3.jpeg",
       "url": "https://github.com/duyhungmdh/MDHIOS",
-      "date": "2026-08-01",
+      "date": "2026-11-01",
       "notify": true
     }
   ]

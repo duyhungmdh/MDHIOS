@@ -12,22 +12,49 @@
       "subtitle": "App Sign IPA",
       "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign.jpg",
       "tintColor": "848ef9",
-      "version": "1.9.3",
+      "version": "1.9.8",
       "versionDate": "2026-11-01T02:11:53Z",
       "size": 18920000,
-      "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.3.ipa",
+      "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.8.ipa",
       "versions": [
         {
-          "version": "1.9.3",
+          "version": "1.9.8",
           "date": "2026-11-01T02:11:53Z",
           "size":18920000,
-          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.3.ipa"
+          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign_v1.9.8.ipa"
         }
       ],
       "screenshotURLs": [
         "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign1.jpg",
         "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign2.jpg",
         "https://github.com/duyhungmdh/MDHIOS/releases/download/All/xSign3.jpg"
+      ]
+    },
+        {
+      "name": "LCsign",
+      "localizedDescription": "LCsign hỗ trợ kí IPA.",
+      "bundleIdentifier": "mdh.lcsign",
+      "developerName": "Mai Hồng Vũ",
+      "subtitle": "App Sign IPA",
+      "iconURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/LCsign.jpg",
+      "tintColor": "848ef9",
+      "version": "1.4.2",
+      "versionDate": "2026-11-01T02:11:53Z",
+      "size": 21000000,
+      "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/LCSign_v1.4.2.ipa",
+      "versions": [
+        {
+          "version": "1.4.2",
+          "date": "2026-11-01T02:11:53Z",
+          "size":21000000,
+          "downloadURL": "https://github.com/duyhungmdh/MDHIOS/releases/download/All/LCSign_v1.4.2.ipa"
+        }
+      ],
+      "screenshotURLs": [
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/LCsign0.jpg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/LCsign1.jpg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/LCsign2.jpg",
+        "https://github.com/duyhungmdh/MDHIOS/releases/download/All/LCsign3.jpg"
       ]
     },
     {
